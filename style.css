@@ -5,3 +5,8 @@ body {
 p {
   color: slateblue;
 }
+
+h1 {
+  color: red;
+  margin: 20px;
+}
