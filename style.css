@@ -11,3 +11,8 @@ h1 {
   margin: 20px;
   background-color: black;
 }
+
+h2 {
+  color: blue;
+  background-color: slategray;
+}
