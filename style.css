@@ -7,6 +7,10 @@ p {
 }
 
 h1 {
+<<<<<<< HEAD
   color: red;
   margin: 20px;
+=======
+  background-color: black;
+>>>>>>> feature-1
 }
